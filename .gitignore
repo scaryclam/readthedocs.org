@@ -7,7 +7,6 @@ _build
 cnames
 deploy/.vagrant
 doc_root
-local_settings.py
 locks/*
 logs/*
 media/json
